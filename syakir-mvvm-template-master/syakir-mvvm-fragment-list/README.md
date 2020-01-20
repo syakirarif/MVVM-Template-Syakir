@@ -1,6 +1,6 @@
-# MVVM Kotlin Fragment List [Template]
+# MVVM Fragment (LIST) [Template]
 
-Template page untuk pattern MVVM Kotlin list. 
+Template page untuk membuat Fragment dengan data List menerapkan MVVM
 
 ## Installing
 
@@ -8,12 +8,4 @@ Template page untuk pattern MVVM Kotlin list.
 
 ## How To Use
 
-- New > Other > MVVM Fragment List
-- Follows Todo
-
-## Author
-
-- Email : radhika.yusuf1@gmail.com
-- [Github][1]
-
-[1]: https://github.com/radhikayusuf
+- New > Other > MVVM Fragment (LIST)

@@ -1,6 +1,6 @@
-# MVVM Kotlin Fragment [Template]
+# MVVM Network (List) [Template]
 
-Template page untuk pattern MVVM Kotlin Fragment. 
+Template page untuk membuat file network untuk fitur yang menerapkan MVVM
 
 ## Installing
 
@@ -8,12 +8,4 @@ Template page untuk pattern MVVM Kotlin Fragment.
 
 ## How To Use
 
-- New > Other > MVVM Fragment
-- Follows Todo
-
-## Author
-
-- Email : radhika.yusuf1@gmail.com
-- [Github][1]
-
-[1]: https://github.com/radhikayusuf
+- New > Other > MVVM Network (LIST)

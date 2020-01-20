@@ -12,5 +12,10 @@ Template MVVM yang dipakai oleh Syakir Arif saat bekerja membuat fitur aplikasi 
 2. New -> Other -> (pilih template yang anda inginkan)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syakirarif/MVVM-Template-Syakir/screenshots/ss_tutorial_1.png" alt="screenshot">
+  <img src="https://raw.githubusercontent.com/syakirarif/MVVM-Template-Syakir/master/screenshots/ss_tutorial_1.png" alt="screenshot">
 </p>
+
+## Terima kasih kepada:
+- [Radhika Yusuf][1]
+
+[1]: https://github.com/radhikayusuf?tab=repositories

@@ -1,6 +1,6 @@
-# MVVM Kotlin Page List [Template]
+# MVVM Activity (LIST) [Template]
 
-Template page untuk pattern MVVM Kotlin List. 
+Template page untuk membuat Activity dengan data List menerapkan MVVM
 
 ## Installing
 
@@ -8,12 +8,4 @@ Template page untuk pattern MVVM Kotlin List.
 
 ## How To Use
 
-- New > Other > MVVM Page List
-- Follows Todo
-
-## Author
-
-- Email : radhika.yusuf1@gmail.com
-- [Github][1]
-
-[1]: https://github.com/radhikayusuf
+- New > Other > MVVM Activity (LIST)

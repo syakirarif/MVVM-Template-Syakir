@@ -1,0 +1,20 @@
+<template 
+	format="4"
+        revision="1"
+        name="MVVM Network"
+        description="MVVM Network : DataSource(DS), LocalDataSource(LDS), RemoteDataSource(RDS), Repository">
+ 
+    <category value="Other"/>
+ 
+    <parameter 
+	id="className"
+        name="Page Name"
+        type="string"
+        constraints="class|unique|nonempty"
+        default="Main"
+        help="Nama fitur atau fungsi yang akan menerapkan MVVM"/>
+ 
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+ 
+</template>

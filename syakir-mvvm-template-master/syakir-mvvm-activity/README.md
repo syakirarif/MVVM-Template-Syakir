@@ -1,6 +1,6 @@
-# MVVM Kotlin Page [Template]
+# MVVM Activity [Template]
 
-Template page untuk pattern MVVM Kotlin. 
+Template page untuk membuat Activity menerapkan MVVM
 
 ## Installing
 
@@ -8,11 +8,4 @@ Template page untuk pattern MVVM Kotlin.
 
 ## How To Use
 
-- New > Other > MVVM Page
-
-## Author
-
-- Email : radhika.yusuf1@gmail.com
-- [Github][1]
-
-[1]: https://github.com/radhikayusuf
+- New > Other > MVVM Activity
